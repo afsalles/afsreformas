@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AFS Reformas",
-    "currentPage": "index.html",
+    "currentPage": "contato.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -614,7 +614,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>ONDE ESTAMOS</b><br>Rua Olímpio Gomes Filho, 290<br>Porto Ferreira - São Paulo<br><br>\n<strong>CONTATOS</strong><br>contato@afsreformas.com.br<br>\nFone: +55 (11) 97628-8760<br>",
+          "text1": "<b>ONDE ESTAMOS</b><br>Rua Olímpio Gomes Filho, 290<br>Porto Ferreira - São Paulo<br><br>\n<strong>CONTATOS</strong><br>contato@afsreformas.com.br<br>\nFone: +55 (11) 97628-8760<br><br>CNPJ 58.402.363/0001-33<br>",
           "text2": "",
           "_tags": [
             "Theme"
