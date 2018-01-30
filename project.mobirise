@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AFS Reformas",
-    "currentPage": "contato.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -443,7 +443,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Fone"
               },
               "message": {
                 "title": "Message",
