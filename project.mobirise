@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AFS Reformas",
-    "currentPage": "contato.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -421,19 +421,19 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">ENVIAR</a>",
-          "text1": "<strong>NOSSO ENDEREÇO</strong><br>Rua Olímpio Gomes Filho, 290<br>Porto Ferreira - São Paulo - SP<br><br>\n<strong>CONTACTS</strong><br>\nEmail: contato@afsreformas.com.br<br>\nCel: (11) 97628-8760<br>",
+          "text1": "<strong>NOSSO ENDEREÇO</strong><br>Rua Olímpio Gomes Filho, 290<br>Porto Ferreira - São Paulo - SP<br><br><b>ENTRE EM CONTATO</b><br>\nEmail: contato@afsreformas.com.br<br>\nCel: (11) 97628-8760<br><br>CNPJ&nbsp;58.402.363/0001-33",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "salles.eng@gmail.com",
+            "action": "contato@afsreformas.com.br",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Obrigado pela mensagem!"
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "Nome*"
               },
               "email": {
                 "visible": true,
@@ -441,13 +441,13 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Como podemos ajudar?"
               }
             }
           },
