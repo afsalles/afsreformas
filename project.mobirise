@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AFS Reformas",
-    "currentPage": "contato.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -21,7 +21,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://www.afsreformas.com.br",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": "",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"3FnRgyh4Z1eg8BayQ0bdy2jp9EkcuYEUYOizBvkSu0w\" />",
     "cookiesAlert": "",
     "sitemapSwitcher": "on"
   },
