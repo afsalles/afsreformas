@@ -21,7 +21,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://www.afsreformas.com.br",
     "sitemapSwitcherAuto": "on",
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"3FnRgyh4Z1eg8BayQ0bdy2jp9EkcuYEUYOizBvkSu0w\" />",
+    "google-analytics": "",
     "cookiesAlert": "",
     "sitemapSwitcher": "on"
   },
@@ -30,7 +30,7 @@
       "settings": {
         "main": true,
         "title": "AFS - Reformas",
-        "meta_descr": "Home Page - AFS Reformas",
+        "meta_descr": "Home Page - AFS Reformas\n\n<meta name=\"google-site-verification\" content=\"3FnRgyh4Z1eg8BayQ0bdy2jp9EkcuYEUYOizBvkSu0w\" />",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
