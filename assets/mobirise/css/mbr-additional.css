@@ -1,10 +1,10 @@
-#msg-box5-y .mbr-header__text {
-  color: #ffffff;
+#ext_menu-16 .mbr-brand__name {
+  font-size: 16px;
 }
-#msg-box5-y .mbr-header__subtext {
-  color: #ffffff;
+#ext_menu-16.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#msg-box5-y .mbr-article {
+#ext_menu-16 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #header2-2 P {
