@@ -14,7 +14,7 @@
     "favicon": "",
     "noImageResize": "true",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
@@ -87,6 +87,31 @@
           ],
           "_name": "menu",
           "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-x"
         },
         {
           "_inherit": "header1",
